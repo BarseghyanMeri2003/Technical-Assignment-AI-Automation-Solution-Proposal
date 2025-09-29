@@ -1,0 +1,31 @@
+
+---
+
+### 2. `sample_data.json`
+```json
+[
+  {
+    "date": "2025-09-27",
+    "steps": 12000,
+    "calories_burned": 650,
+    "hours_slept": 7.5,
+    "resting_heart_rate": 56,
+    "workout": {"type": "run", "duration_min": 45, "avg_hr": 150}
+  },
+  {
+    "date": "2025-09-28",
+    "steps": 4500,
+    "calories_burned": 220,
+    "hours_slept": 5.2,
+    "resting_heart_rate": 64,
+    "workout": {"type": "strength", "duration_min": 60, "avg_hr": 135}
+  },
+  {
+    "date": "2025-09-29",
+    "steps": 7600,
+    "calories_burned": 420,
+    "hours_slept": 6.3,
+    "resting_heart_rate": 60,
+    "workout": {"type": "none", "duration_min": 0, "avg_hr": 0}
+  }
+]
