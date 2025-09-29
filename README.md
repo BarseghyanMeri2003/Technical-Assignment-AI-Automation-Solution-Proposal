@@ -2,7 +2,7 @@
 
 This repository is a lightweight demo of an AI-driven fitness coach.
 It shows how activity logs can be processed to generate daily
-workout and meal suggestions. This is a rule-based demo — no ML yet.
+workout and meal suggestions. This is a rule-based demo with no ML yet.
 
 ## Included files
 - `sample_data.json` - mock wearable activity logs
