@@ -1,0 +1,1 @@
+# Technical-Assignment-AI-Automation-Solution-Proposal
